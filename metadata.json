@@ -1,0 +1,7 @@
+{
+  "name": "WISECOIN",
+  "symbol": "WISE",
+  "description": "Token utilitário do ecossistema Wiseplan.",
+  "image": "https://github.com/fmenossi83/wisecoin/blob/main/wisecoin.png?raw=true",
+  "decimals": 6
+}
